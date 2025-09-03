@@ -10,7 +10,7 @@
   { "id": 9, "name": "Mesa de Madeira", "category": "Casa", "price": 799.99, "image": "https://i.postimg.cc/MpLn8rbC/Mesa-de-Madeira.jpg" },
   { "id": 10, "name": "Copo papel biodegradável térmico", "category": "Utensílios", "price": 0.99, "image": "https://i.postimg.cc/GhQD6QfR/Copo-papel-biodegrad-vel-t-rmico.jpg" },
   { "id": 11, "name": "Canudo De Papel Biodegradável", "category": "Utensílios", "price": 0.50, "image": "https://i.postimg.cc/8PDWy3tw/Canudo-De-Papel-Biodegrad-vel.jpg" },
-  { "id": 12, "name": "Pilha Recarregável", "category": "Tecnologia", "price": 69.99, "image": "" },
+  { "id": 12, "name": "Pilha Recarregável", "category": "Tecnologia", "price": 69.99, "image": "https://i.postimg.cc/4d7MSnNC/Pilha-Recarreg-vel.jpg" },
   { "id": 13, "name": "Capinha de Celular Biodegradável", "category": "Utensílios", "price": 49.99, "image": "https://i.postimg.cc/dVNyV0vS/Capinha-de-Celular-Biodegrad-vel.jpg" },
   { "id": 14, "name": "Talher de Bambu", "category": "Utensílios", "price": 79.99, "image": "https://i.postimg.cc/qqQ7DmvZ/Talher-de-Bambu.jpg" },
   { "id": 15, "name": "Mordedor Biodegradável para Pet", "category": "Pets", "price": 25.99, "image": "https://i.postimg.cc/YSmh2fdh/Mordedor-Biodegrad-vel-para-Pet.jpg" },
