@@ -3,7 +3,7 @@
   { "id": 2, "name": "Escova de Bambu", "category": "Beleza", "price": 19.90, "image": "https://i.postimg.cc/bwwnPnXt/escova-bambu.jpg" },
   { "id": 3, "name": "Garrafa Inox Reutilizável", "category": "Utensílios", "price": 59.90, "image": "https://i.postimg.cc/BvdP2wjT/Garrafa-Inox-Reutiliz-vel.jpg" },
   { "id": 4, "name": "Painel Solar Portátil", "category": "Tecnologia", "price": 999.99, "image": "https://i.postimg.cc/XJSXrGPx/Painel-Solar-Port-til.jpg" },
-  { "id": 5, "name": "Sabonete Natural Vegano", "category": "Beleza", "price": 14.50, "image": "" },
+  { "id": 5, "name": "Sabonete Natural Vegano", "category": "Beleza", "price": 14.50, "image": "https://i.postimg.cc/7LLjSmFZ/sabonete.jpg" },
   { "id": 6, "name": "Petiscos Orgânicos para Pets", "category": "Pets", "price": 49.99, "image": "https://i.postimg.cc/fyMLK4D9/Petiscos-Org-nicos-para-Pets.jpg" },
   { "id": 7, "name": "Coletor de água da Chuva", "category": "Casa", "price": 39.99, "image": "https://i.postimg.cc/hGJ7zqt4/coletor.jpg" },
   { "id": 8, "name": "Lâmpadas LED", "category": "Tecnologia", "price": 9.99, "image": "https://i.postimg.cc/9ML3vsyT/L-mpadas-LED.jpg" },
