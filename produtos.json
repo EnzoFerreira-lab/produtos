@@ -6,7 +6,7 @@
   { "id": 5, "name": "Sabonete Natural Vegano", "category": "Beleza", "price": 14.50, "image": "" },
   { "id": 6, "name": "Petiscos Orgânicos para Pets", "category": "Pets", "price": 49.99, "image": "https://i.postimg.cc/fyMLK4D9/Petiscos-Org-nicos-para-Pets.jpg" },
   { "id": 7, "name": "Coletor de água da Chuva", "category": "Casa", "price": 39.99, "image": "https://i.postimg.cc/hGJ7zqt4/coletor.jpg" },
-  { "id": 8, "name": "Lâmpadas LED", "category": "Tecnologia", "price": 9.99, "image": "" },
+  { "id": 8, "name": "Lâmpadas LED", "category": "Tecnologia", "price": 9.99, "image": "https://i.postimg.cc/9ML3vsyT/L-mpadas-LED.jpg" },
   { "id": 9, "name": "Mesa de Madeira", "category": "Casa", "price": 799.99, "image": "https://i.postimg.cc/MpLn8rbC/Mesa-de-Madeira.jpg" },
   { "id": 10, "name": "Copo papel biodegradável térmico", "category": "Utensílios", "price": 0.99, "image": "https://i.postimg.cc/GhQD6QfR/Copo-papel-biodegrad-vel-t-rmico.jpg" },
   { "id": 11, "name": "Canudo De Papel Biodegradável", "category": "Utensílios", "price": 0.50, "image": "https://i.postimg.cc/8PDWy3tw/Canudo-De-Papel-Biodegrad-vel.jpg" },
